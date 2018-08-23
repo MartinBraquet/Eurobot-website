@@ -1,0 +1,11 @@
+.liste_createurs 
+{
+	display: flex;
+}
+
+.liste_createurs ul
+{
+	margin-right: 100px;
+	font-size: 20px;
+	font-family: monospace;
+}
