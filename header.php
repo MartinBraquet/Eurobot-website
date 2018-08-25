@@ -19,6 +19,7 @@ $robot6 = "Robot 6";
         <ul>
             <li><a href="index.php">Accueil</a></li>
             <li><a href="blog.php">Blog</a></li>
+            <li><a href="livreor.php">Livre d'or</a></li>
             <li><a href="contact.php">Contact</a></li>
         </ul>
     </nav>
